@@ -19,7 +19,7 @@ const Navbar = () => {
         shadow-2xl border-sky-400
         cursor-pointer"
         >
-          Responsive
+          Untuk pelajaran saja
         </button>
         <button
           onClick={handleButtonporto}
