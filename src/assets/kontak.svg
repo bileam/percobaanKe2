@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="contact">
+  <g fill="#000000" class="color000000 svgShape">
+    <path fill="none" d="M0 0h24v24H0z"></path>
+    <path fill="#ea1515" d="M1 12C1 4 4 1 12 1s11 3 11 11-3 11-11 11S1 20 1 12" class="colorff7b00 svgShape"></path>
+    <circle cx="12" cy="8.37" r="2.37" fill="#ff8888" class="colorffe588 svgShape"></circle>
+    <path fill="#ffffff" d="M12 18a5.9 5.9 0 0 0 4.67-2.28 4.74 4.74 0 0 0-9.34 0A5.9 5.9 0 0 0 12 18Z" class="colorffffff svgShape"></path>
+  </g>
+</svg>
