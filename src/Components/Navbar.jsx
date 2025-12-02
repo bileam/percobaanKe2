@@ -6,7 +6,7 @@ const Navbar = () => {
     navigasi("/responsive");
   };
   const handleButtonporto = () => {
-    navigasi("/portofolio");
+    navigasi("/portofoloi");
   };
   return (
     <div className="flex items-center justify-center flex-col h-screen">

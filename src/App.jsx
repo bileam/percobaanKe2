@@ -14,9 +14,9 @@ function App() {
     <Router>
       <div className="font-sans ">
         <Routes>
-          {/* <Route path="/" element={<Navbar />} /> */}
+          <Route path="/" element={<Navbar />} />
           <Route path="/responsive" element={<Belajar_responsive />} />
-          <Route path="/" element={<Portopolio />} />
+          <Route path="/portofoloi" element={<Portopolio />} />
           <Route path="/pembelajaran" element={<Utama />} />
           <Route path="/belajar2" element={<Page1 />} />
         </Routes>
